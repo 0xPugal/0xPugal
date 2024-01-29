@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            983 Commits
+                            984 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2635,7 +2635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swisskyrepo/SSRFmap</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic SSRF fuzzer and exploitation tool</div>
@@ -3008,6 +3008,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">0xPugazh/0xPugazh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ddd9de</div>
+                                        <div class="message">Update metrics.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">0xPugazh/One-Liners</span>
                                     </div>
                                 </div>
@@ -3064,32 +3084,6 @@ extract the first four columns from nuclei findings</div>
                                     <div class="commit">
                                         <div class="sha">#bd4581b</div>
                                         <div class="message">Update README.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">0xPugazh/bugbounty_profile</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#db6f750</div>
-                                        <div class="message">Update .bash_profile
-
-&gt; remove tools from sub
-&gt; add portscan using parallel
-&gt; add ept in nuclei config
-&gt; increase threads and rate in httpx and naabu
-&gt; etc...</div>
                                     </div>
                                 </div>
                             </section>
@@ -3231,7 +3225,7 @@ extract the first four columns from nuclei findings</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 90.9k out of 67.1m repositories</span>
+                                    <span class="gh">ranked 90.9k out of 93.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 137 times</div>
                             </div>
@@ -3305,7 +3299,7 @@ extract the first four columns from nuclei findings</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 45.7k out of 67.1m repositories</span>
+                                    <span class="gh">ranked 45.7k out of 93.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 991 stars</div>
                             </div>
@@ -3315,7 +3309,7 @@ extract the first four columns from nuclei findings</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2024, 16:43:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2024, 16:57:13 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
