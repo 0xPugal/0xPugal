@@ -2535,7 +2535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swisskyrepo/SSRFmap</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatic SSRF fuzzer and exploitation tool</div>
@@ -2588,7 +2588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>projectdiscovery/uncover</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly discover exposed hosts on the internet using multiple search engines.</div>
@@ -3251,7 +3251,7 @@ fix twitter username</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 90.2k out of 73.7m repositories</span>
+                                    <span class="gh">ranked 90.2k out of 75.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 138 times</div>
                             </div>
@@ -3325,7 +3325,7 @@ fix twitter username</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 45.6k out of 73.7m repositories</span>
+                                    <span class="gh">ranked 45.6k out of 75.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 991 stars</div>
                             </div>
@@ -3335,7 +3335,7 @@ fix twitter username</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2024, 07:50:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2024, 08:46:02 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
