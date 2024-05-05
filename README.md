@@ -9,10 +9,7 @@
 
 </p>
 
-<p align="center" width="100%"><a href="https://github.com/0xpugazh"><img src="./github-metrics.svg"></a></p>
+<p align="center" width="100%"><a href="https://github.com/0xPugal"><img src="./github-metrics.svg"></a></p>
 
 ### Hacktoberfest 2022 & 2023
 [![An image of @0xpugazh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xpugazh)](https://holopin.io/@0xpugazh)
-
-### Get 200$ credits on DO
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=87789189e3ea&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
