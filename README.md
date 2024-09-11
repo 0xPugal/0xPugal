@@ -4,7 +4,6 @@
   <a href="https://twitter.com/0xpugal"><img src="https://img.shields.io/badge/-%400xpugal-blue?style=for-the-badge&logo=x&logoColor=00AEFF&labelColor=black&color=black"></a>
   <a href="https://www.linkedin.com/in/0xpugal/"><img src="https://img.shields.io/badge/-0xPugal-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black"></a>
   <a href="https://0xpugal.github.io/"><img src="https://img.shields.io/badge/0xpugal.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black"></a>
-  <a href="mailto:pugalarasan1305@gmail.com"><img src="https://img.shields.io/badge/pugalarasan1305@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=00AEFF&labelColor=black&color=black"></a>
   <a href="https://instagram.com/0xpugal"><img src="https://img.shields.io/badge/0xpugal-0078D4?style=for-the-badge&logo=instagram&logoColor=00AEFF&labelColor=black&color=black"></a>
 
 </p>
