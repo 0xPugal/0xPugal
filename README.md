@@ -10,5 +10,5 @@
 
 <p align="center" width="100%"><a href="https://github.com/0xPugal"><img src="./github-metrics.svg"></a></p>
 
-### Hacktoberfest 2022 & 2023
-[![An image of @0xpugazh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xpugazh)](https://holopin.io/@0xpugazh)
+### Hacktoberfest 2022, 2023 & 2024
+[![An image of @0xpugal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xpugal)](https://holopin.io/@0xpugal)
